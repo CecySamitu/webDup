@@ -126,9 +126,9 @@ ul.LS li li::before {
 }
 
 .salto{
-    margin-bottom: 10px; /* Espacio debajo de la línea */
-    text-align: left; /* Centrar el contenido */
-    font-weight: bold; /* Opcional: hacer que la línea sea más prominente */
+    margin-bottom: 10px;
+    text-align: left; 
+    font-weight: bold;
 }
 
 .image-container {
